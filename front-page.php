@@ -3,7 +3,7 @@
  * The template for the homepage
  *
  * @package WordPress
- * @subpackage Skillcrush_Starter
+ * @subpackage cnemer
  * @since Skillcrush Starter 1.0
  */
 
