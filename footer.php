@@ -5,7 +5,7 @@
  * Contains footer content and the closing of the #main and #page div elements.
  *
  * @package WordPress
- * @subpackage Skillcrush_Starter
+ * @subpackage cnemer
  * @since Skillcrush Starter 1.0
  */
 ?>
