@@ -3,7 +3,7 @@
  * The template for displaying pages
  *
  * @package WordPress
- * @subpackage Nemer
+ * @subpackage cnemer
  * @since Skillcrush Starter 1.0
  */
 
